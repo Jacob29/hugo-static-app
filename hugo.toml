@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mango-sky-01400dd03.4.azurestaticapps.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Quas Wex Exort'
+theme = 'ananke'
