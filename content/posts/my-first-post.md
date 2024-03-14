@@ -8,4 +8,6 @@ author = "Jake"
 
 This is **bold** text, and this is *emphasized* text.
 
+{{< figure src="self_image.jpg" title="Me" >}}
+
 Visit the [Hugo](https://gohugo.io) website!
