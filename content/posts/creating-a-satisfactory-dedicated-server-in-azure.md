@@ -3,6 +3,7 @@ title = 'project: creating a satisfactory dedicated server in azure'
 date = 2024-03-14T13:02:29Z
 draft = false
 author = "jake armstrong"
+ShowReadingTime = true
 +++
 
 ## purpose
@@ -24,7 +25,7 @@ the purpose of this project was to create a vm within azure that was hosting a d
 5.	ssh via powershell using
     a.	ssh -i (directory of private key) azureuser@ip-of-vm
 
-{{< figure src="/images/satisfactory-ds/sh-screenshot.jpg" >}}
+{{< figure src="/images/satisfactory-ds/ssh-screenshot.jpg" >}}
 
 6.	update ubuntu packages and install steamcmd by running the following:
     a.	sudo apt update ** sudo apt upgrade -y
