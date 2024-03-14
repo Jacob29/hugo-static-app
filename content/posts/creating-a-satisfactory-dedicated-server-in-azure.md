@@ -24,7 +24,7 @@ the purpose of this project was to create a vm within azure that was hosting a d
 5.	ssh via powershell using
     a.	ssh -i (directory of private key) azureuser@ip-of-vm
 
-{{< figure src="/images/ssh-screenshot.jpg" >}}
+{{< figure src="/images/satisfactory-ds/sh-screenshot.jpg" >}}
 
 6.	update ubuntu packages and install steamcmd by running the following:
     a.	sudo apt update ** sudo apt upgrade -y
@@ -48,13 +48,13 @@ it was also a goal of the project for players to be able to turn the server on t
 
 1.	create a logic app within the azure portal, give it a unique to azure name, select region, and plan, i selected consumption because it will be used sparingly, not an enterprise amount of times. maybe once or twice a day at most
 
-{{< figure src="/images/create-logic-app.jpg" >}}
+{{< figure src="/images/satisfactory-ds/create-logic-app.jpg" >}}
 
 2.	open the logic app designer and choose the common trigger of “when a http request is received”. it shouldn’t need a json scheme as it does nothing with the data
 
 3.	add a new step of start virtual machine
 
-{{< figure src="/images/logic-app-design.jpg" >}}
+{{< figure src="/images/satisfactory-ds/logic-app-design.jpg" >}}
 
 now someone can send an http request to the http post url and it will start the server
 
