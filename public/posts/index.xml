@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Quas Wex Exort</title>
-    <link>https://mango-sky-01400dd03.4.azurestaticapps.net/posts/</link>
-    <description>Recent content in Posts on Quas Wex Exort</description>
+    <title>Posts on quas wex exort</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on quas wex exort</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2024 17:40:13 +0000</lastBuildDate>
-    <atom:link href="https://mango-sky-01400dd03.4.azurestaticapps.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Mar 2024 13:02:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://mango-sky-01400dd03.4.azurestaticapps.net/posts/my-first-post/</link>
-      <pubDate>Wed, 13 Mar 2024 17:40:13 +0000</pubDate>
-      <guid>https://mango-sky-01400dd03.4.azurestaticapps.net/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
-    </item>
-  </channel>
-</rss>
+      <title>project: creating a satisfactory dedicated server in azure</title>
+      <link>http://localhost:1313/posts/creating-a-satisfactory-dedicated-server-in-azure/</link>
+      <pubDate>Thu, 14 Mar 2024 13:02:29 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creating-a-satisfactory-dedicated-server-in-azure/</guid>
+      <description>purpose the purpose o
