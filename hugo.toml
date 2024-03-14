@@ -1,7 +1,7 @@
 baseURL = 'https://mango-sky-01400dd03.4.azurestaticapps.net/'
 languageCode = 'en-us'
 title = 'quas wex exort'
-theme = 'Papermod'
+theme = 'mod-Papermod'
 
 [[menu.main]]
 identifier = "about me"
