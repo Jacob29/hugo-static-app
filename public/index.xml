@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>quas wex exort</title>
     <link>http://localhost:1313/</link>
@@ -13,16 +13,14 @@
       <link>http://localhost:1313/posts/creating-a-satisfactory-dedicated-server-in-azure/</link>
       <pubDate>Thu, 14 Mar 2024 13:02:29 +0000</pubDate>
       <guid>http://localhost:1313/posts/creating-a-satisfactory-dedicated-server-in-azure/</guid>
-      <description>purpose the purpose of this project was to create a vm within azure that was hosting a dedicated server for the game satisfactory
-test123</description>
+      <description>purpose the purpose of this project was to create a vm within azure that was hosting a dedicated server for the game satisfactory&#xA;test123</description>
     </item>
     <item>
       <title>my first post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 13 Mar 2024 17:40:13 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>introduction this is bold text, and this is emphasized text.
-MeVisit the Hugo website!</description>
+      <description>introduction this is bold text, and this is emphasized text.&#xA;Me Visit the Hugo website!</description>
     </item>
     <item>
       <title>about me</title>
