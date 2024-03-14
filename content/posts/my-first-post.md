@@ -2,6 +2,7 @@
 title = 'My First Post'
 date = 2024-03-13T17:40:13Z
 draft = false
+author = "Jake"
 +++
 ## Introduction
 
